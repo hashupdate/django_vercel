@@ -1,1 +1,1 @@
-# django_vercel
+# djangocel
